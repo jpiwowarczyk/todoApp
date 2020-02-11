@@ -1,0 +1,28 @@
+.TodoItemsList{
+    margin-top: 5px;
+    padding-left: 5%;
+}
+
+
+/* Active tab */
+.tabColor  a.active,
+.tabColor  a.active:hover,
+.tabColor  a.active:focus {
+    background-color: #444444;
+    border-style: none;
+    color: white;
+}
+/* Incative tab */
+.tabColor  a,
+.tabColor  a:hover,
+.tabColor  a:focus {
+    background-color: black;
+    color: White;
+}
+
+/* Disabled tab */
+.tabColor ul > li.disabled > a {
+    background-color: lightgray;
+    color: darkgray;
+}
+

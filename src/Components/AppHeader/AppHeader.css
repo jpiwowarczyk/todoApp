@@ -1,0 +1,10 @@
+.TodoListHeader{
+    background-color: #555555;
+    min-height: 50px;
+    text-align: left;
+    color: lightgray;
+    padding: 1em;
+}
+.TodoListHeader input {
+    margin-left: 1em;
+}

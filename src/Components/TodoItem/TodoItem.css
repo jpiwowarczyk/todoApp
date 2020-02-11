@@ -1,0 +1,22 @@
+.TodoItem{
+    background-color: silver;
+    text-align: left;
+    padding: 0.5em;
+    border-radius: 5px 5px 5px 5px;
+    width: 90%;
+    margin-top: 1em;
+}
+
+.DoneItem{
+    background-color: lightgreen;
+    text-align: left;
+    padding: 0.5em;
+    border-radius: 5px 5px 5px 5px;
+    width: 90%;
+    margin-top: 1em;
+}
+
+Button {
+    position: relative;
+    align-self: start;
+}
